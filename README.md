@@ -1,5 +1,5 @@
-# PKUOS Spring 2022 website
-This repo contains the source code of the website for the Spring 2022 Operating Systems Course Honor track at Peking University. The repo for the main page is [here](https://github.com/PKU-OS/PKU-OS.github.io).
+# PKUOS Spring 2023 website
+This repo contains the source code of the website for the Spring 2023 Operating Systems Course Honor track at Peking University. The repo for the main page is [here](https://github.com/PKU-OS/PKU-OS.github.io).
 
 ## Usage
 It is easy to create websites for further semesters:

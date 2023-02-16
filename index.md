@@ -7,7 +7,7 @@ currWeekNumber: 1
 
 # {{ site.tagline }}
 {: .mb-2 }
-Peking University, 2022 Spring
+Peking University, 2023 Spring
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <img src="/sp22/assets/images/pkuos.svg">
@@ -15,7 +15,7 @@ Peking University, 2022 Spring
 <p>
 <a href="https://alfredthiel.gitbook.io/pintosbook/" class="btn btn-purple">Project Gitbook</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
-<a href="https://piazza.com/pku.edu.cn/spring2022/04834490" class="btn btn-blue">Piazza</a>
+<a href="https://piazza.com/pku.edu.cn/spring2023/04834490" class="btn btn-blue">Piazza</a>
 </p>
 
 {% if site.announcements %}
