@@ -35,9 +35,4 @@ schedule:
         end: 9:50 AM
         location: 二教509
   - name: Friday
-    events:
-      - name: Office Hour
-        start: 2:00 PM
-        end: 3:00 PM
-        location: 燕园大厦811
 ---

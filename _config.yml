@@ -16,7 +16,7 @@
 title: Operating Systems
 tagline: Operating Systems (Honor Track)
 author: Yinmin Zhong
-baseurl: '/sp22' # the subpath of your site, e.g. /blog
+baseurl: '/sp23' # the subpath of your site, e.g. /blog
 url: 'https://pku-os.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
