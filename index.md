@@ -13,7 +13,7 @@ Peking University, 2023 Spring
 <img src="/sp22/assets/images/pkuos.svg">
 
 <p>
-<a href="https://alfredthiel.gitbook.io/pintosbook/" class="btn btn-purple">Project Gitbook</a>
+<a href="https://pkuflyingpig.gitbook.io/pintos/" class="btn btn-purple">Project Gitbook</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
 <a href="https://piazza.com/pku.edu.cn/spring2023/04834490" class="btn btn-blue">Piazza</a>
 </p>
