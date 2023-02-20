@@ -27,7 +27,6 @@ schedule:
         start: 10:10 AM
         end: 12:00 PM
         location: 一教208
-    events:
       - name: Office Hour
         start: 4:00 PM
         end: 5:00 PM
