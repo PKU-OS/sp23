@@ -4,7 +4,7 @@ weekNumber: 3
 ---
 
 Mar 7
-: **Lecture**{: .label .label-blue }[Abstraction 3: IPC, Pipes and Sockets]()
+: **Lecture**{: .label .label-blue }[Abstraction 3: IPC, Pipes and Sockets](/sp23/assets/slides/lec05_abstraction3.pdf)
     : **Read**{: .label .label-green}[Ch39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 : **TA session**{: .label .label-yellow} [Lab1: Threads](/sp23/assets/slides/TA_session2.pdf)
     : &emsp;
@@ -12,7 +12,7 @@ Mar 7
 
 
 Mar 9
-: **Lecture**{: .label .label-blue }[Synchronization 1: Concurrency]()
+: **Lecture**{: .label .label-blue }[Synchronization 1: Concurrency](/sp23/assets/slides/lec06_synchronization1.pdf)
     : **Read**{: .label .label-green}[Ch26](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
 : &emsp;
-    : **Paper**{: .label .label-green}[NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes)
+    : **Paper**{: .label .label-green}[CCR'07 HowToRead](https://dl.acm.org/doi/10.1145/1273445.1273458), [NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes), [SOSP'21 ghOSt](https://dl.acm.org/doi/10.1145/3477132.3483542)

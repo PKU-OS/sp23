@@ -13,7 +13,7 @@ Mar 2
 : **Lecture**{: .label .label-blue }[Abstractions 2: Files and I/O](/sp23/assets/slides/lec04_abstraction2.pdf)
     : **Read**{: .label .label-green}[Ch39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 : **Lab 0 Code due**{: .label .label-red }
-    : &emsp;
+    : **Paper**{: .label .label-green}[NSDI'20 i10](https://www.usenix.org/conference/nsdi20/presentation/hwang), [OSDI'21 blk-switch](https://www.usenix.org/conference/osdi21/presentation/hwang)
 
 Mar 5
 : **Lab 0 Doc due**{: .label .label-red }
