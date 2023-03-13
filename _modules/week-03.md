@@ -6,8 +6,6 @@ weekNumber: 3
 Mar 7
 : **Lecture**{: .label .label-blue }[Abstraction 3: IPC, Pipes and Sockets](/sp23/assets/slides/lec05_abstraction3.pdf)
     : **Read**{: .label .label-green}[Ch39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
-: **TA session**{: .label .label-yellow} [Lab1: Threads](/sp23/assets/slides/TA_session2.pdf)
-    : &emsp;
 : **Lab 1 Out**{: .label .label-purple } [Lab1: Threads](https://pkuflyingpig.gitbook.io/pintos/project-description/lab1-threads)
 
 
