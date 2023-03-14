@@ -4,7 +4,7 @@ weekNumber: 4
 ---
 
 Mar 14
-: **Lecture**{: .label .label-blue }[Synchronization 2: Lock Implementation](/sp22/assets/slides/lec07_synchronization2.pdf)
+: **Lecture**{: .label .label-blue }[Synchronization 2: Lock Implementation](/sp23/assets/slides/lec07_synchronization2.pdf)
     : **Read**{: .label .label-green}[Ch28](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf), [Ch29](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf)
 : **TA session**{: .label .label-yellow} [Lab1: Threads](/sp23/assets/slides/TA_session2.pdf)
     : &emsp;
