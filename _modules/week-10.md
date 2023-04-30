@@ -6,6 +6,8 @@ weekNumber: 10
 April 25
 : **Mid Term**{: .label .label-red }
     : &emsp;
+: **Lab 3a Out**{: .label .label-purple } [Lab3a: Virtual Memory](https://pkuflyingpig.gitbook.io/pintos/project-description/lab3a-demand-paging)
+    : &emsp;
 
 April 27
 : **Lecture**{: .label .label-blue }[Memory 3: Demand Paging](/sp23/assets/slides/lec16_memory3.pdf)
