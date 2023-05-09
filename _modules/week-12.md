@@ -4,7 +4,7 @@ weekNumber: 12
 ---
 
 May 9
-: **Lecture**{: .label .label-blue }[Memory 4: Demand Paging && Memory Management in Modern Computer Systems](/sp22/assets/slides/lec17_memory4.pdf)
+: **Lecture**{: .label .label-blue }[Memory 4: Demand Paging](/sp23/assets/slides/lec17_memory4.pdf)
     : **Read**{: .label .label-green}[Ch21](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [Ch22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)
 : **TA session**{: .label .label-yellow}[Lab3a: Virtual Memory](/sp23/assets/slides/TA_session4.pdf)
     : **Paper**{: .label .label-green}[OSDI'20 PipeSwitch](https://www.usenix.org/conference/osdi20/presentation/bai)
