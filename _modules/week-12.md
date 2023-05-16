@@ -12,4 +12,6 @@ May 9
 May 11
 : **Lecture**{: .label .label-blue }[Memory 4: Demand Paging](/sp23/assets/slides/lec17_memory4.pdf)
     : **Paper**{: .label .label-green}[ASPLOS'20 SwapAdvisor](https://dl.acm.org/doi/10.1145/3373376.3378530)
+: **Guest Lecture**{: .label .label-blue }[(Zhuohan Li) Computer Systems for Large Language Models](https://people.eecs.berkeley.edu/~zhuohan/)
+    : &emsp;
 
