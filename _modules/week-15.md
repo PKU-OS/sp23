@@ -4,7 +4,7 @@ weekNumber: 15
 ---
 
 May 30
-: **Lecture**{: .label .label-blue }[File System 3: Buffering, Reliability, and Transactions](/sp23/assets/slides/lec21_file3.pdf)
+: **Lecture**{: .label .label-blue }[File System 3: Buffering, Reliability, and Transactions](/sp23/assets/slides/lec22_file3.pdf)
     : **Read**{: .label .label-green}[Ch42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)
 
 June 1
