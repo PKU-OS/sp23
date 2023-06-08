@@ -10,5 +10,5 @@ June 6
     : &emsp;
 
 June 8
-: **Lecture**{: .label .label-blue }[File System 5: Storage and File Systems in Modern Computer Systems](/sp22/assets/slides/lec23_file5.pdf)
+: **Lecture**{: .label .label-blue }[File System 5: Storage and File Systems in Modern Computer Systems](/sp23/assets/slides/lec24_file5.pdf)
     : **Read**{: .label .label-green}[SOSP History Day](https://www.sigops.org/s/conferences/sosp/2015/history/)
